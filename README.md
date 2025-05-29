@@ -1,4 +1,4 @@
-# Kanat Endo - Mountain Portfolio
+# Kanato Endo - Mountain Portfolio
 
 🏔️ **Majestic Mountain-Inspired Developer Portfolio**
 
